@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarimnadeem09
 - 👀 I’m interested in AI and data science
-- 🌱 I’m currently learning Panda 
+- 🌱 I’m currently learning web dev. 
 - 💞️ I’m looking to collaborate on a project of web scraping  or pure python fundamental
 - 📫 How to reach me message 
 - 😄 Pronouns: he/ him
